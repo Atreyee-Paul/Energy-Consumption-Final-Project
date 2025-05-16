@@ -21,7 +21,6 @@ This project focuses on analyzing energy consumption trends using a real-world E
 ## 🗂️ Project Structure
 
 - `PowerBI_Report.pbix` – Main Power BI report file
-- `Theme.json` – Custom light-themed Power BI color palette
 - `Presentation.pptx` – Project presentation slides
 - `README.md` – This documentation file
 
